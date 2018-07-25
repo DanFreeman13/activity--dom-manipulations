@@ -52,7 +52,7 @@ liList.forEach(function (element) {
 });
 
 urgentList = [...urgentList];
-console.log(urgentList);
+
 var urgBegin = "<b>";
 var urgLast = "</b>"
 urgentList.forEach(function (elem) {
